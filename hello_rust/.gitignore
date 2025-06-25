@@ -1,4 +1,5 @@
 /target/
 /debug/
+**/*.rs.bk
 .rustc_info.json
 CACHEDIR.TAG
