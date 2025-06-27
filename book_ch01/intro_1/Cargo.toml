@@ -1,0 +1,10 @@
+[package]
+name = "intro_1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "intro_1"
+path = "src/intro1.rs"
