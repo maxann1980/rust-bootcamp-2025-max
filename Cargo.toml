@@ -2,6 +2,6 @@
 members = [
     "book_ch01/intro_1",
     "book_ch01/intro_2",
-    "book_ch02/guessing_game",
+    "book_ch02/guessing_game", "book_ch03/functions_1", "book_ch03/functions_2", "book_ch03/functions_3", "book_ch03/functions_4", "book_ch03/functions_5", "book_ch03/functions_6", "book_ch03/variables", "book_ch03/variables_1", "book_ch03/variables_2", "book_ch03/variables_3", "book_ch03/variables_4", "book_ch03/variables_5", "book_ch03/variables_6",
     "hello_rust"
 ]
