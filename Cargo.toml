@@ -1,4 +1,5 @@
 [workspace]
+resolver = "3"     
 members = [
     "book_ch01/intro_1",
     "book_ch01/intro_2",
