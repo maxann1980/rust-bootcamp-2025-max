@@ -1,9 +1,8 @@
 fn main() {
     let s = String::from("Hello world!");
-    println!("the first word in {} is {}",s, &s[0..first_word(&s)]);
+    println!("the first word in {} is {}", s, &s[0..first_word(&s)]);
 
-
-    println!("the first word in {} is {}",s, first_word_ref(&s));
+    println!("the first word in {} is {}", s, first_word_ref(&s));
 }
 
 fn first_word(s: &String) -> usize {
@@ -29,4 +28,3 @@ fn first_word_ref(s: &String) -> &str {
 
     &s[0..s.len()]
 }
-

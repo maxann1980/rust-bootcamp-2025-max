@@ -1,5 +1,5 @@
 fn main() {
-    let number =  {
+    let number = {
         let x = 3;
         x + 1
     };
@@ -10,6 +10,6 @@ fn main() {
         println!("condition was false");
     }
     let condition = true;
-    let var = if condition {"TRUE"} else {"FALSE"};
-    println!("Condition is : {}",var);
+    let var = if condition { "TRUE" } else { "FALSE" };
+    println!("Condition is : {}", var);
 }

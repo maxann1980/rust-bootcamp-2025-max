@@ -18,7 +18,7 @@ fn main() {
 fn copy_symple_types() {
     let x = 5;
     let y = x;
-    println!("x = {} , y = {}",x,y);
+    println!("x = {} , y = {}", x, y);
 }
 
 fn copy_complex_types() {
@@ -36,5 +36,4 @@ fn clone_data() {
     name1.insert_str(0, "Hello ");
     println!("name  - {}", name);
     println!("name1  - {}", name1);
-
 }
