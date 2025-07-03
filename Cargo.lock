@@ -55,6 +55,18 @@ name = "hello_rust"
 version = "0.1.0"
 
 [[package]]
+name = "if_1"
+version = "0.1.0"
+
+[[package]]
+name = "if_2"
+version = "0.1.0"
+
+[[package]]
+name = "if_3"
+version = "0.1.0"
+
+[[package]]
 name = "intro_1"
 version = "0.1.0"
 
@@ -67,6 +79,22 @@ name = "libc"
 version = "0.2.174"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1171693293099992e19cddea4e8b849964e9846f4acee11b3948bcc337be8776"
+
+[[package]]
+name = "ownership1"
+version = "0.1.0"
+
+[[package]]
+name = "ownership2"
+version = "0.1.0"
+
+[[package]]
+name = "ownership3"
+version = "0.1.0"
+
+[[package]]
+name = "ownership4"
+version = "0.1.0"
 
 [[package]]
 name = "ppv-lite86"
@@ -124,6 +152,14 @@ checksum = "ec0be4795e2f6a28069bec0b5ff3e2ac9bafc99e6a9a7dc3547996c5c816922c"
 dependencies = [
  "getrandom",
 ]
+
+[[package]]
+name = "reference1"
+version = "0.1.0"
+
+[[package]]
+name = "sclices1"
+version = "0.1.0"
 
 [[package]]
 name = "syn"
