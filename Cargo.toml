@@ -32,5 +32,17 @@ members = [
     "book_ch03/variables_4",
     "book_ch03/variables_5",
     "book_ch03/variables_6",
+    "book_ch04/move_semantics01",
+    "book_ch04/move_semantics02",
+    "book_ch04/move_semantics03",
+    "book_ch04/move_semantics04", "book_ch04/move_semantics05",
+    "book_ch05/structs01",
+    "book_ch05/structs02",
+    "book_ch05/structs03",
+    "book_ch05/structs1",
+    "book_ch05/structs2",
+    "book_ch05/structs3",
+    "book_ch05/structs4",
+    "book_ch05/structs5", "book_ch06/enums01", "book_ch06/enums02", "book_ch06/enums03",
     "hello_rust"
 ]
